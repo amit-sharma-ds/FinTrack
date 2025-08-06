@@ -1,4 +1,4 @@
-# 💰 FinWell - Simple Finance Tracker  
+# 💰 FinTrack - Simple Finance Tracker  
 **[🔗 Live Demo](https://fintrack-zikvci99pdnvns4yqdbcnq.streamlit.app/)**
 
 **FinWell** is an offline, smart personal finance tracker built with Python and Streamlit. It lets you track your income and expenses, visualize your financial health, and chat with an AI assistant — all without needing any API keys.
